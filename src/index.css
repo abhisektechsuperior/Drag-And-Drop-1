@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  background: linear-gradient(beige, white, lightyellow);
+  height: 100vh;
+  /* background: linear-gradient(blueviolet,white,red);  */
+}
